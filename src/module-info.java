@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author intel
+ *
+ */
+module projetJava {
+}
